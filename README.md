@@ -1,6 +1,6 @@
 # Fire & Shadow
 
-A dark Omarchy theme inspired by the landscape paintings of Joseph Wright.
+A dark Omarchy theme inspired by the paintings of Joseph Wright.
 
 ![GitHub stars](https://img.shields.io/github/stars/mattbbia/fire-and-shadow?style=flat-square)
 ![License](https://img.shields.io/github/license/mattbbia/fire-and-shadow?style=flat-square)
