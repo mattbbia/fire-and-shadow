@@ -12,7 +12,7 @@ A dark Omarchy theme inspired by the paintings of Joseph Wright.
 
 ## Inspiration
 
-Joseph Wright of Derby (1734-1797) was a master of atmosphere. He was known for his dramatic use of light and shadow to evoke a feeling of mystery in the observer. The selected paintings showcase Wright's ability to illuminate firelight, moonlight and a volcanic glow, creating a moody, cinematic collection that lends itself well to a dark desktop environment.
+Joseph Wright of Derby (1734–1797) was a master of atmosphere. He was known for his dramatic use of light and shadow to evoke a feeling of mystery in the observer. The selected paintings showcase Wright's ability to illuminate firelight, moonlight and a volcanic glow, creating a moody, cinematic collection that lends itself well to a dark desktop environment.
 ## Gallery
 
 This project includes 4 carefully selected paintings:
