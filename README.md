@@ -4,6 +4,7 @@ A dark Omarchy theme inspired by the paintings of Joseph Wright.
 
 ![GitHub stars](https://img.shields.io/github/stars/mattbbia/fire-and-shadow?style=flat-square)
 ![License](https://img.shields.io/github/license/mattbbia/fire-and-shadow?style=flat-square)
+![Omarchy Quattro Ready](https://img.shields.io/badge/Omarchy-Quattro%20Ready-brightgreen?style=flat-square)
 
 ![Theme preview picture](preview.png)
 
@@ -45,27 +46,19 @@ This project includes 4 carefully selected paintings:
 ![](https://placehold.co/120x24/FFE996/090704?text=%23FFE996)
 ## Components
 
-List the applications, modules, or features included in the project.
-
 - Aether
 - Alacritty
 - btop
 - Chromium
 - Foot
 - Ghostty
-- GTK
 - Hyprland
-- Hyprlock
 - Kitty
-- Mako
 - Neovim
-- SwayOSD
+- Omarchy Shell (bar, lock screen, notifications, launcher, on-screen display)
 - Vencord
 - VS Code
-- Walker
 - Warp
-- Waybar
-- Wofi
 - Zellij
 
 ## Installation
